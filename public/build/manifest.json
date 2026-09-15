@@ -1,29 +1,29 @@
 {
-  "_sortable.esm-C83syoBY.js": {
-    "file": "assets/sortable.esm-C83syoBY.js",
+  "_sortable.esm-j3KvE6KT.js": {
+    "file": "assets/sortable.esm-j3KvE6KT.js",
     "name": "sortable.esm"
   },
   "resources/css/app.css": {
-    "file": "assets/app-Dvd9Ltsw.css",
+    "file": "assets/app-BPyNuboR.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-Ieazwr42.js",
+    "file": "assets/app-D3CpJOHQ.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
     "imports": [
-      "_sortable.esm-C83syoBY.js"
+      "_sortable.esm-j3KvE6KT.js"
     ]
   },
   "resources/js/kanban.js": {
-    "file": "assets/kanban-DMYNNGhE.js",
+    "file": "assets/kanban-Cv3QJhTM.js",
     "name": "kanban",
     "src": "resources/js/kanban.js",
     "isEntry": true,
     "imports": [
-      "_sortable.esm-C83syoBY.js"
+      "_sortable.esm-j3KvE6KT.js"
     ]
   }
 }
